@@ -4,3 +4,6 @@ It features solid transaction support, relations, eager and lazy loading, read r
 
 # TODO
 
+* RUN npx sequelize db:migrate 
+* RUN npx sequelize db:migrate:undo:all
+* RUN npm run test
