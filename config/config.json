@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "sequelize_user",
+    "password": "root",
+    "database": "sequelizepgsqldb",
+    "host": "172.18.0.2",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "sequelize_user",
+    "password": "root",
+    "database": "sequelizepgsqldb",
+    "host": "172.18.0.2",
+    "dialect": "postgres"
+  }
+}
