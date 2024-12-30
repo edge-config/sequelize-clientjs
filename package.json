@@ -25,7 +25,8 @@
     "bluebird": "3.7.2",
     "cross-env": "7.0.3",
     "expect.js": "0.3.1",
-    "mocha": "10.4.0",
-    "supertest": "6.3.4"
+    "mocha": "10.7.3",
+    "ava": "4.3.3",
+    "supertest": "7.0.0"
   }
 }
